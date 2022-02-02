@@ -1,0 +1,1 @@
+# django-demo-ice-cream-store
